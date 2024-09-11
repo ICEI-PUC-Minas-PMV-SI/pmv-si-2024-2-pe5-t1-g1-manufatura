@@ -1,4 +1,4 @@
-# Ata de divisão de Tarefas - Projeto de Infraestrutura de Rede para Any Malhas
+# Divisão de Tarefas - Projeto de Infraestrutura de Rede para Any Malhas
 
 
 ## Participantes:
