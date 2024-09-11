@@ -1,17 +1,8 @@
 # Divisão de Tarefas - Projeto de Infraestrutura de Rede para Any Malhas
 
+## Contribuições dos Alunos
 
-## Participantes:
-•	Davi Coelho Peixoto   
-•	Fernanda Belmont Rivlis    
-•	Lucas Dias de Melo   
-•	Márcia Delmare de Oliveira Peixoto   
-•	Pedro Miranda   
-•	Valdeir Carlos Mendes   
-
-# 3. Contribuições dos Alunos
-
-# Davi Coelho Peixoto
+## Davi Coelho Peixoto
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da matriz em Belo Horizonte.  
 •	Planejamento e configuração dos dispositivos de rede na Matriz.  
@@ -22,7 +13,7 @@
 •	Configuração inicial dos servidores de aplicação para suporte às operações de TI e produção da Any Malhas.  
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
-# Fernanda Belmont Rivlis
+## Fernanda Belmont Rivlis
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da filial 3.  
 •	Planejamento e configuração dos dispositivos de rede na filial 3.  
@@ -32,7 +23,7 @@
 •	Configuração inicial das conexões WI-FI.
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
-# Lucas Dias de Melo 
+## Lucas Dias de Melo 
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da filial 1 e 2.  
 •	Planejamento e configuração dos dispositivos de rede na filial 1 e 2.  
@@ -42,7 +33,7 @@
 •	Configuração inicial das conexões WI-FI e DHCP.  
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
-# Márcia Delmare de Oliveira Peixoto 
+## Márcia Delmare de Oliveira Peixoto 
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da filial 3.  
 •	Planejamento e configuração dos dispositivos de rede na filial 3.  
@@ -52,7 +43,7 @@
 •	Configuração inicial das conexões DHCP.  
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
-# Pedro Miranda 
+## Pedro Miranda 
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da filial 1 e 2.  
 •	Planejamento e configuração dos dispositivos de rede na filial 1 e 2.  
@@ -62,7 +53,7 @@
 •	Configuração inicial das conexões WI-FI e DHCP.  
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
-# Valdeir Carlos Mendes 
+## Valdeir Carlos Mendes 
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da matriz em Belo Horizonte.  
 •	Planejamento e configuração dos dispositivos de rede na Matriz.  
