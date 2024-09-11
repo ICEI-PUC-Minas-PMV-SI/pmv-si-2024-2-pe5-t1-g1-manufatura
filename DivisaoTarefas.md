@@ -1,6 +1,11 @@
 # Divisão de Tarefas - Projeto de Infraestrutura de Rede para Any Malhas
 ## CONTRIBUIÇÕES DOS ALUNOS
-## Davi Coelho Peixoto  
+
+<span style="color:red">
+Os textos <s>riscados</s> etão parcialmete ou completamentes errados ou equivocados, cada um deve descrever o que realemte fez em formato de ata dentro do diretorio "docs", de maneira sobria e coerente com o que foi feito.
+</span>
+
+## <s>Davi Coelho Peixoto  
 ## Responsabilidades:
 -	Design e implementação da infraestrutura de rede da matriz em Belo Horizonte.  
 -	Planejamento e configuração dos dispositivos de rede na Matriz.  
@@ -62,4 +67,4 @@
 ## Tarefas Concluídas:
 -	Desenho da topologia de rede, incluindo switches e roteadores.  
 -	Configuração inicial dos servidores de aplicação para suporte às operações de TI e produção da Any Malhas.  
--	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
+-	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.</s>
