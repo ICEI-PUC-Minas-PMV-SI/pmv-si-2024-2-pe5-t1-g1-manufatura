@@ -29,7 +29,7 @@
 •	Definição e implementação de serviços de rede essenciais, como DHCP  e WI-FI, servidor web, e-mail e etc.  
 ## Tarefas Concluídas:
 •	Desenho da topologia de rede, incluindo switches, roteadores e pontos de acesso para as unidades da empresa.  
-•	Configuração inicial das conexões WI-FI e DHCP.  
+•	Configuração inicial das conexões WI-FI.
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
 ## Lucas Dias de Melo 
@@ -49,7 +49,7 @@
 •	Definição e implementação de serviços de rede essenciais, como DHCP  e WI-FI, servidor web, e-mail e etc.  
 ## Tarefas Concluídas:
 •	Desenho da topologia de rede, incluindo switches, roteadores e pontos de acesso para as unidades da empresa.  
-•	Configuração inicial das conexões WI-FI e DHCP.  
+•	Configuração inicial das conexões DHCP.  
 •	Documentação detalhada dos recursos de rede utilizados em cada unidade (matriz e filiais), incluindo especificações técnicas e quantidades.  
 
 ## Pedro Miranda 
