@@ -2,7 +2,7 @@
 
 ## Contribuições dos Alunos
 
-<u>## Davi Coelho Peixoto</u>
+<u> ## Davi Coelho Peixoto </u>
 ## Responsabilidades:
 •	Design e implementação da infraestrutura de rede da matriz em Belo Horizonte.  
 •	Planejamento e configuração dos dispositivos de rede na Matriz.  
