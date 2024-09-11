@@ -9,13 +9,6 @@
 •	Pedro Miranda   
 •	Valdeir Carlos Mendes   
 
-## 1. Introdução
-O projeto tem como objetivo desenvolver a infraestrutura de rede para a Any Malhas, uma empresa de manufatura têxtil com sede em Belo Horizonte e três filiais localizadas nas cidades de Arcos, Campo Belo e Lavras. A empresa se dedica à produção de fios e tecidos, e o projeto visa implementar uma rede segura e eficiente para conectar todas as unidades.
-
-## 2. Objetivos 
-•	Discutir o progresso do desenvolvimento da infraestrutura de rede.  
-•	Definir as responsabilidades e contribuições de cada aluno no projeto.  
-
 ## 3. Contribuições dos Alunos
 
 ## Davi Coelho Peixoto
