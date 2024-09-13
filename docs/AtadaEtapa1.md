@@ -7,6 +7,7 @@
 -	Configuração inicial das conexões WI-FI.  
 
  ## Márcia Delmare de Oliveira Peixoto  
+- Documentação do Projeto
 - Topologia de rede da filial 3, incluindo computadores, notebooks, switches, roteadores e suas conexões
 -	Configuração inicial das conexões WI-FI e DHCP.  
 
