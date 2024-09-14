@@ -11,3 +11,7 @@
 - Topologia de rede da filial 3, incluindo computadores, notebooks, switches, roteadores e suas conexões
 -	Configuração inicial das conexões WI-FI e DHCP.  
 
+ ## Pedro Miranda Cardoso Neto  
+- Topologia de rede da filial 2, incluindo computadores, notebooks, switches, roteadores e suas conexões
+-	Preenchimento da seção de equipamentos da planilha de levantamento
+
