@@ -16,7 +16,7 @@
 -	Preenchimento da seção de equipamentos da planilha de levantamento
 
 ## Davi Coelho Peixoto
-- Reunir a equipe para reuniões
+- Reunir o grupo
 - Topologia de rede da filial 2, incluindo computadores, notebooks, switches, roteadores e suas conexões
 - Preenchimento da seção de equipamentos da planilha de levantamento
  
