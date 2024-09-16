@@ -26,4 +26,9 @@
 - Configuração dos serviços de DHCP, DNS e HTTP da matriz e DHCP da filial 1;
 - Topologia de rede da matriz e filia 1, incluindo todos equipamentos e serviços contidos nelas;
 - Interligação da rede WAN entre matriz e filias através de rotas estáticas;
-- Combinar arquivos de projeto do(PKT); 
+- Combinar arquivos de projeto do(PKT);
+
+- ## Lucas Dias de Melo
+- Documentação do Projeto
+- Configuração inicial das conexões WI-FI e DHCP.
+  
