@@ -20,4 +20,10 @@
 - Reunir o grupo
 - Topologia de rede da filial 2, incluindo computadores, notebooks, switches, roteadores e suas conexões
 - Preenchimento da seção de equipamentos da planilha de levantamento
- 
+
+## Valdeir Carlos Mendes
+- Responsável por orientar sobre a padronização e organização da rede incluindo nomenclatura dos equipamento, endereçamento e numeração dos IPs e vlans presentes em todo escopo;
+- Configuração dos serviços de DHCP, DNS e HTTP da matriz e DHCP da filial 1;
+- Topologia de rede da matriz e filia 1, incluindo todos equipamentos e serviços contidos nelas;
+- Interligação da rede WAN entre matriz e filias através de rotas estáticas;
+- Combinar arquivos de projeto do(PKT); 
