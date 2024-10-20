@@ -8,7 +8,7 @@
 
 
  ## Pedro Miranda Cardoso Neto  
-
+- Responsável por implementar, configuar e testar os serviços de Active Directory, DNS e DHCP no Windows server 2022.
 
 ## Davi Coelho Peixoto
 - Responsável por implementar e configurar os serviços de Active Directory no Windows Server 2022.
