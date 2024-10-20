@@ -11,6 +11,7 @@
 
 
 ## Davi Coelho Peixoto
+- Responsável por implementar e configurar os serviços de Active Directory no Windows Server 2022.
 
 
 ## Valdeir Carlos Mendes
