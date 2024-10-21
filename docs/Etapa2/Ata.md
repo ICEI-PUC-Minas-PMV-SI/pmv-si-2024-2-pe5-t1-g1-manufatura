@@ -11,7 +11,7 @@
 - Responsável por implementar, configuar e testar os serviços de Active Directory, DNS e DHCP no Windows server 2022.
 
 ## Davi Coelho Peixoto
-- Responsável por implementar e configurar os serviços de Active Directory no Windows Server 2022.
+- Responsável por implementar e configurar os serviços de Active Directory e DNS no Windows Server 2022.
 
 
 ## Valdeir Carlos Mendes
