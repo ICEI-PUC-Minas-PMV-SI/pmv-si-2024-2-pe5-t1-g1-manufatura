@@ -2,10 +2,10 @@
 ## CONTRIBUIÇÕES DOS ALUNOS
 
 ## Fernanda Belmont Rivlis
- 
+ - Responsável por revisar os documentos.
 
  ## Márcia Delmare de Oliveira Peixoto  
-
+- Responsável por instalar e configuar o servidor FTP no Ubuntu utilizando a instância EC2 da AWS.
 
  ## Pedro Miranda Cardoso Neto  
 - Responsável por implementar, configuar e testar os serviços de Active Directory, DNS e DHCP no Windows server 2022.
