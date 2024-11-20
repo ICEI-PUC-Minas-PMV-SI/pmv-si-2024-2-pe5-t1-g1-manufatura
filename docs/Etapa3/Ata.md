@@ -5,17 +5,17 @@
  - Responsável por revisar os documentos.
 
  ## Márcia Delmare de Oliveira Peixoto  
- - Instalação do Zabbix para monitorar o comportamento de serviços de rede e recursos físicos de equipamentos de rede
+ - 
 
  ## Pedro Miranda Cardoso Neto  
- - Implementação do host webserver
+ - 
 
 ## Davi Coelho Peixoto
- - Instalação do Zabbix para monitorar o comportamento de serviços de rede e recursos físicos de equipamentos de rede
+ - 
 
 ## Valdeir Carlos Mendes
- - Instalação do Zabbix para monitorar o comportamento de serviços de rede e recursos físicos de equipamentos de rede
+ - Instalação e configuração do ambiente de monitoramento em nuvem, utilizando Zabbix para monitorar os servidores de E-mail e Web e documentação dos processos.
 
 ## Lucas Dias de Melo
- - Instalação do Zabbix para monitorar o comportamento de serviços de rede e recursos físicos de equipamentos de rede
+ - 
   
