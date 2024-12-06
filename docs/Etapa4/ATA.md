@@ -6,8 +6,8 @@
 
  ## Márcia Delmare de Oliveira Peixoto  
 - Elaboração da Política de Segurança da Informação;
-- Revisão e atualização da documentação;
-- Levantamento e documentação das vulnerabiliaddes do serviço FTP, instalado em nuvem.
+- Revisão e atualização da documentação do projeto;
+- Levantamento e documentação das vulnerabilidades do serviço FTP, instalado em nuvem.
 
  ## Pedro Miranda Cardoso Neto  
 - Responsável pela cartilha de segurança e vulnerabilidades.
