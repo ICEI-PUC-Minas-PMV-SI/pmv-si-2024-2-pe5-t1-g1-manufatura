@@ -10,10 +10,10 @@
 - Levantamento e documentação das vulnerabilidades do serviço FTP, instalado em nuvem.
 
  ## Pedro Miranda Cardoso Neto  
-- Responsável pela cartilha de segurança e vulnerabilidades.
+
 
 ## Davi Coelho Peixoto
-- Responsável pela elaboração da PSI e revisão do documento.
+
 
 
 ## Valdeir Carlos Mendes
@@ -24,5 +24,5 @@
 
 
 ## Lucas Dias de Melo
-- Responsável por formatar os documentos em LaTEX.
+
   
