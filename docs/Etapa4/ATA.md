@@ -2,10 +2,12 @@
 ## CONTRIBUIÇÕES DOS ALUNOS
 
 ## Fernanda Belmont Rivlis
- - Responsável pela elaboração da PSI e revisão dos documento.
+ - Responsável pela elaboração da PSI e revisão do documento.
 
  ## Márcia Delmare de Oliveira Peixoto  
-- Responsável pela elaboração da PSI e atualização do documento.
+- Elaboração da Política de Segurança da Informação;
+- Revisão e atualização da documentação;
+- Levantamento e documentação das vulnerabiliaddes do serviço FTP, instalado em nuvem.
 
  ## Pedro Miranda Cardoso Neto  
 - Responsável pela cartilha de segurança e vulnerabilidades.
@@ -16,7 +18,7 @@
 
 ## Valdeir Carlos Mendes
 - Levantamento e documentação das vulnerabilidades dos  serviços de webmail, webserver, banco de dados, monitoramento e infraestrutura  em cloud;
-- Elaboraçãoo, design e diagramação da Cartilha de Segurança;
+- Elaboração, design e diagramação da Cartilha de Segurança;
 - Revisão da documentação;
 
 
