@@ -2,16 +2,16 @@
 ## CONTRIBUIÇÕES DOS ALUNOS
 
 ## Fernanda Belmont Rivlis
- - Responsável elaboração da PSi e revisão dos documento.
+ - Responsável pela elaboração da PSI e revisão dos documento.
 
  ## Márcia Delmare de Oliveira Peixoto  
-- Responsável por elaboração da PSi e atualização do documento.
+- Responsável pela elaboração da PSI e atualização do documento.
 
  ## Pedro Miranda Cardoso Neto  
 - Responsável pela cartilha de segurança e vulnerabilidades.
 
 ## Davi Coelho Peixoto
-- Responsável por elaboração da PSi e revisão do documento.
+- Responsável pela elaboração da PSI e revisão do documento.
 
 
 ## Valdeir Carlos Mendes
