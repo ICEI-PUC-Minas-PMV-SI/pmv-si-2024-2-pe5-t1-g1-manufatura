@@ -1,1 +1,6 @@
-https://youtu.be/a2PXMwxlzAk
+Utilize senhas fortes, uma quantidade de no mínimo 12 caracteres combinando letras maiúsculas, minúsculas, números e caracteres especiais;
+Utilize senhas diferentes para contas distintas, principalmente para conta de e-mail principal que usa para se cadastrar em outros serviços;
+Mantenha as informações de recuperação de senhas sempre atualizadas;
+Não compartilhe suas senhas com ninguém;
+Evite anotar suas senhas, se tiver dificuldade de recordá-las utilize algum software específico para guardá-las protegidas por uma senha “mestre”;
+Ative o multifator de autenticação;

@@ -15,7 +15,10 @@
 
 
 ## Valdeir Carlos Mendes
-- Responsável pela cartilha de segurança e vulnerabilidades.
+- Levantamento e documentação das vulnerabilidades dos  serviços de webmail, webserver, banco de dados, monitoramento e infraestrutura  em cloud;
+- Elaboraçãoo, design e diagramação da Cartilha de Segurança;
+- Revisão da documentação;
+
 
 
 ## Lucas Dias de Melo
