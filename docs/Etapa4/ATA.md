@@ -13,7 +13,8 @@
 
 
 ## Davi Coelho Peixoto
-
+- Elaboração da Política de Segurança da Informação;
+- Revisão e atualização da documentação do projeto;
 
 
 ## Valdeir Carlos Mendes
