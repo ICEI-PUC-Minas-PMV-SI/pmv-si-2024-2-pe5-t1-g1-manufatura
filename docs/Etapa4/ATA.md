@@ -10,7 +10,8 @@
 - Levantamento e documentação das vulnerabilidades do serviço FTP, instalado em nuvem.
 
  ## Pedro Miranda Cardoso Neto  
-
+-  Levantamento e documentação das vulnerabilidades do serviço de SNMP no Servidor;
+-  Elaboração do conteúdo da Cartilha de Segurança.
 
 ## Davi Coelho Peixoto
 - Elaboração da Política de Segurança da Informação;
